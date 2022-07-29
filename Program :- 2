@@ -1,0 +1,7 @@
+# WAP TO ENTER THE PIN OR PASSWORD USING (IF-CONDITION)
+
+pin=input('Enter the PIN')
+
+if pin=='1234':
+    print('Succesfully Login')
+print('Thank you for visit')
