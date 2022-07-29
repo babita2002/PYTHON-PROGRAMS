@@ -3,6 +3,8 @@ And to Calculate GST 18% , Net Amount (Cost + GST) ,
 Discount 5% on Net Amount and Payable Amount  (Net Amount - Discount) ??
 
 
+
+
 Code :-
 
 pid = int(input("Enter the Product ID "))
@@ -20,6 +22,10 @@ print ("Discount ",discount)
 
 payamt = netamt - discount
 print ("Payable Amount is ",payamt)
+
+
+
+
 
 
 #QUTPUT:-
